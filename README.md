@@ -37,8 +37,8 @@ CHAPTER 4 EXERCISE DATA 1A CAROLINA TORRES ARJONA
       printf("*****\n\n");
 
     return 0;
-  }
-
+    }
+    
 # 4-3
 
     #include <stdio.h>
